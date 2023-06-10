@@ -1,4 +1,7 @@
 site_name: Learn MongoDB
+site_url: https://www.patashale.in/learn-mongodb/
+site_author: Patashale™
+site_description: Learn everything about MongoDB here at Patashale™.
 repo_url: https://github.com/patashale/learn-mongodb
 repo_name: patashale/learn-mongodb
 theme:
